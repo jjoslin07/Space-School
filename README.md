@@ -1,6 +1,8 @@
 # Space-School
 Bootstrap 4 Practice Project  ➡
 [Space School](https://jjoslin07.github.io/Space-School/)
+![image](https://user-images.githubusercontent.com/73438491/162644839-78494c94-ed06-486d-b1bc-58147b6ce2a5.png)
+
 ## Course Description
 Would you like to build feature-rich websites, developing prototypes with the ability to fully customize the design and functionality for the end product?
 
